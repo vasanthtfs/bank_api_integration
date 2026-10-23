@@ -1,0 +1,2 @@
+banking_api@ git+https://github.com/aerele/bankingapi.git@master
+frappe
